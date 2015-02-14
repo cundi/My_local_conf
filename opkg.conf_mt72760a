@@ -10,6 +10,8 @@ arch ralink 200
 arch ramips 300
 arch ramips_24kec 400
 
+src/gz barrier_breaker http://downloads.openwrt.org.cn/PandoraBox/ralink/mt7620/packages
+
 src/gz barrier_breaker_base http://downloads.openwrt.org/barrier_breaker/14.07/ramips/mt7620a/packages/base
 src/gz barrier_breaker_luci http://downloads.openwrt.org/barrier_breaker/14.07/ramips/mt7620a/packages/luci
 src/gz barrier_breaker_packages http://downloads.openwrt.org/barrier_breaker/14.07/ramips/mt7620a/packages/packages
