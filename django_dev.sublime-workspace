@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-bu",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"bs",
+				"bs3-form	bs3-form"
+			],
+			[
+				"ST",
+				"STATICFILES_DIRS"
+			],
+			[
+				"MEDia",
+				"MEDIA_ROOT"
+			],
+			[
+				"ME",
+				"MEDIA_URL"
+			],
+			[
+				"dj",
+				"django_dev"
+			],
+			[
+				"U",
+				"UserInput"
+			],
+			[
+				"mode",
+				"model	model"
+			],
+			[
+				"UserI",
+				"UserInputAdmin"
+			],
+			[
+				"b",
+				"block	Django template block"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"conte",
+				"context	statement"
+			],
+			[
+				"tem",
+				"template	statement"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"STA",
+				"STATICFILES_DIRS"
+			],
+			[
+				"ge",
+				"get_context_data	function"
+			],
+			[
+				"H",
+				"HelloTemplate	class"
+			],
+			[
+				"pa",
+				"patterns	function"
+			],
+			[
+				"For",
+				"ForeignKey	class"
+			],
+			[
+				"G",
+				"Game	class"
+			],
+			[
+				"con",
+				"contrib	module"
+			],
+			[
+				"auto",
+				"auto_now	param"
+			],
+			[
+				"STS",
+				"STATICFILES_DIRS"
+			],
+			[
+				"Te",
+				"TemplateView	class"
+			],
+			[
+				"ren",
+				"render_to_response	function"
+			],
+			[
+				"Cre",
+				"CreateContactView	class"
+			],
+			[
+				"model",
+				"model_name	statement"
+			],
+			[
+				"obj",
+				"objects_list"
+			],
+			[
+				"ass",
+				"assertEquals	statement"
+			],
+			[
+				"re",
+				"reverse	function"
+			],
+			[
+				"Lis",
+				"ListContactView	class"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"q",
+				"question_id	param"
+			],
+			[
+				"C",
+				"ChoiceInline"
+			],
+			[
+				"Quse",
+				"QuestionAdmin	class"
+			],
+			[
+				"timz",
+				"timezone	module"
+			],
+			[
+				"p",
+				"pub_date	statement"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"cho",
+				"choice_text	statement"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"in",
+				"IntegerField	class"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"ex",
+				"extends	extends"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"TEMPLATE_",
+				"TEMPLATE_PATH	statement"
+			],
+			[
+				"BA",
+				"BASE_DIR	statement"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"mod",
+				"models	module"
+			],
+			[
+				"Tex",
+				"TextField	class"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"mo",
+				"models	module"
+			],
+			[
+				"Mod",
+				"Model	class"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"selected_items":
+		[
+			[
+				"Snippet: htm",
+				"Snippet: html"
+			],
+			[
+				"Snippet: h",
+				"Snippet: html"
+			],
+			[
+				"snippet:h",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cundi/django_dev",
+		"/Users/cundi/django_dev/django_test/django_test",
+		"/Users/cundi/django_dev/django_test/static",
+		"/Users/cundi/django_dev/django_test/static/static_files",
+		"/Users/cundi/django_dev/django_test/static/static_files/css",
+		"/Users/cundi/django_dev/django_test/static/static_root/admin",
+		"/Users/cundi/django_dev/django_test/static/static_root/admin/css",
+		"/Users/cundi/django_dev/django_test/static/static_root/css",
+		"/Users/cundi/django_dev/lwc/lwc",
+		"/Users/cundi/django_dev/lwc/static",
+		"/Users/cundi/django_dev/lwc/static/static_dirs/css",
+		"/Users/cundi/django_dev/lwc/static/static_root",
+		"/Users/cundi/django_dev/lwc/templates"
+	],
+	"file_history":
+	[
+		"/Users/cundi/django_dev/django_test/templates/base.html",
+		"/Users/cundi/django_dev/django_test/templates/articles.html",
+		"/Users/cundi/django_dev/lwc/lwc/settings.py",
+		"/Users/cundi/django_dev/django_test/django_test/urls.py",
+		"/Users/cundi/django_dev/django_test/static/static_files/css/articles.html",
+		"/Users/cundi/django_dev/lwc/templates/base.html",
+		"/Users/cundi/django_dev/lwc/templates/home.html",
+		"/Users/cundi/django_dev/django_test/django_test/settings.py",
+		"/Users/cundi/django_dev/shopping/shopping/settings.py",
+		"/Users/cundi/django_dev/shopping/products/models.py",
+		"/Users/cundi/django_dev/coding/coding/settings.py",
+		"/Users/cundi/django_dev/coding/landing/admin.py",
+		"/Users/cundi/django_dev/coding/landing/models.py",
+		"/Users/cundi/django_dev/lwc/lwc/views.py",
+		"/Users/cundi/django_dev/lwc/lwc/urls.py",
+		"/Users/cundi/django_dev/lwc/templates/navbar.html",
+		"/Users/cundi/django_dev/django_test/static/default.css",
+		"/Users/cundi/django_dev/Work_manager/Work_manager/settings.py",
+		"/Users/cundi/django_dev/Work_manager/Work_manager/urls.py",
+		"/Users/cundi/django_dev/Work_manager/templates/en/public/connection.html",
+		"/Users/cundi/django_dev/Work_manager/templates/en/public/index.html",
+		"/Users/cundi/django_dev/Work_manager/views/index/views.py",
+		"/Users/cundi/django_dev/Work_manager/views/connection/views.py",
+		"/Users/cundi/django_dev/Work_manager/Tasks_manager/views.py",
+		"/Users/cundi/django_dev/Work_manager/templates/index.html",
+		"/Users/cundi/django_dev/django_test/article/views.py",
+		"/Users/cundi/django_dev/django_test/templates/article.html",
+		"/Users/cundi/django_dev/django_test/article/models.py",
+		"/Users/cundi/django_dev/django_test/article/urls.py",
+		"/Users/cundi/django_dev/django_test/article/admin.py",
+		"/Users/cundi/django_dev/django_test/templates/hello_class.html",
+		"/Users/cundi/django_dev/boardgames/boardgames/settings.py",
+		"/Users/cundi/django_dev/boardgames/tictactoe/views.py",
+		"/Users/cundi/django_dev/boardgames/boardgames/urls.py",
+		"/Users/cundi/django_dev/boardgames/tictactoe/models.py",
+		"/Users/cundi/django_dev/boardgames/tictactoe/urls.py",
+		"/Users/cundi/django_dev/boardgames/tictactoe/admin.py",
+		"/Users/cundi/django_dev/boardgames/templates/login.html",
+		"/Users/cundi/django_dev/boardgames/templates/helloworld.html",
+		"/Users/cundi/django_dev/boardgames/boardgames/views.py",
+		"/Users/cundi/django_dev/addressbook/contacts/models.py",
+		"/Users/cundi/django_dev/addressbook/addressbook/settings.py",
+		"/Users/cundi/django_dev/addressbook/addressbook/urls.py",
+		"/Users/cundi/django_dev/addressbook/contacts/views.py",
+		"/Users/cundi/django_dev/addressbook/contacts/tests.py",
+		"/Users/cundi/django_dev/addressbook/templates/contacts/edit_contact.html",
+		"/Users/cundi/django_dev/addressbook/templates/contacts/contact_list.html",
+		"/Users/cundi/django_dev/addressbook/contacts/templates/contact_list.html",
+		"/Users/cundi/django_dev/mysite/polls/views.py",
+		"/Users/cundi/django_dev/mysite/polls/urls.py",
+		"/Users/cundi/django_dev/mysite/polls/templates/index.html",
+		"/Users/cundi/django_dev/mysite/polls/models.py",
+		"/Users/cundi/django_dev/mysite/polls/admin.py",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cundi/django_dev/mysite/mysite/urls.py",
+		"/Users/cundi/django_dev/mysite/polls/templates/detail.html",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cundi/django_dev/mysite/polls/detail.html",
+		"/Users/cundi/django_dev/mysite/mysite/settings.py",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/Default (OSX).sublime-keymap",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/Users/cundi/django_dev/django_test/article/tests.py",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/User/Tabright.sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Tabright/Tabright.sublime-settings",
+		"/Users/cundi/django_dev/django_dev.sublime-project",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/User/Python Django.sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/Default (OSX).sublime-keymap",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/Users/cundi/virtual_env_django/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+		"/Users/cundi/Documents/lastpass.csv",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/SublimePythonIDE/pep8.py",
+		"/Users/cundi/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%}\n",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 98.0
+	},
+	"output.autopep8":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "django_dev.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
