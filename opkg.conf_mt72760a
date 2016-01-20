@@ -11,7 +11,6 @@ arch ralink 200
 arch ramips 300
 arch ramips_24kec 400
 
-src/gz barrier_breaker http://downloads.openwrt.org.cn/PandoraBox/ralink/mt7620/packages
 
 src/gz barrier_breaker_base http://downloads.openwrt.org/barrier_breaker/14.07/ramips/mt7620a/packages/base
 src/gz barrier_breaker_luci http://downloads.openwrt.org/barrier_breaker/14.07/ramips/mt7620a/packages/luci
@@ -27,4 +26,3 @@ src/gz barrier_breaker_oldpackages http://downloads.openwrt.org/barrier_breaker/
 #src/gz chaos_calmer_packages http://downloads.openwrt.org/chaos_calmer/15.05/ramips/mt7620/packages/packages
 #src/gz chaos_calmer_routing http://downloads.openwrt.org/chaos_calmer/15.05/ramips/mt7620/packages/routing
 #src/gz chaos_calmer_telephony http://downloads.openwrt.org/chaos_calmer/15.05/ramips/mt7620/packages/telephony
-# src/gz chaos_calmer_targets http://downloads.openwrt.org/chaos_calmer/15.05/ramips/mt762
